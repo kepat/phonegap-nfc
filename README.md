@@ -1,3 +1,19 @@
+## Forked Repository
+
+This is a forked repository from [https://github.com/chariotsolutions/phonegap-nfc](https://github.com/chariotsolutions/phonegap-nfc).
+
+The purpose of this forked repository is to cater for some changes and upgrades that is not yet in the main repository.
+
+### Changes
+
+See change logs in the tex file.
+
+---
+
+Below contains the original content of README.md file from the main author of the plugin.
+
+---
+
 PhoneGap NFC Plugin
 ==========================
 
